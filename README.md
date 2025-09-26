@@ -1,7 +1,11 @@
 # DPI_YAT622B_GIZ3_DRT2_G1
 # Team 1
 # Project Name: AutoFix
-# Project Member: Amal Ibrahim - Olivia Zekry - Mohamed Samy - Mohamed Gabr
+# Project Member: 
+    # Amal Ibrahim 
+    # Olivia Zekry 
+    # Mohamed Samy 
+    # Mohamed Gabr
 # Project Idea: 
     # Auto The project is a mobile application and website that provides all car services in one platform.
     # The main goal is to support car owners by: - Purchasing guaranteed spare parts easily.
