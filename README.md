@@ -6,6 +6,7 @@
     # Olivia Zekry 
     # Mohamed Samy 
     # Mohamed Gabr
+    # Dina Gamal
 # Project Idea: 
     # Auto The project is a mobile application and website that provides all car services in one platform.
     # The main goal is to support car owners by: - Purchasing guaranteed spare parts easily.
