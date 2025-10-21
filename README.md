@@ -36,7 +36,13 @@
         #    Olivia Zekry: Persona + Empathy map + Journey Map
         #    Amal Ibrahim: Persona + Empathy map + Journey Map
 # Task.05
-        #    Mohamed Samy: Persona + Empathy map + Journey Map
-        #    Mohamed Gabr: Persona + Empathy map + Journey Map
-        #    Olivia Zekry: Persona + Empathy map + Journey Map
-        #    Amal Ibrahim: Persona + Empathy map + Journey Map
+        #    Mohamed Samy: User Flow + Information architecture
+        #    Mohamed Gabr: User Flow + Information architecture
+        #    Olivia Zekry: User Flow + Information architecture
+        #    Amal Ibrahim: User Flow + Information architecture
+# Task.06
+        #    Mohamed Samy: Low Fidelity
+        #    Mohamed Gabr: Low Fidelity
+        #    Olivia Zekry: Low Fidelity
+        #    Amal Ibrahim: Low Fidelity
+
