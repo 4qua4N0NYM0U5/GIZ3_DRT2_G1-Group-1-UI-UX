@@ -30,4 +30,13 @@
         #    Mohamed Gabr: Survey + Interview
         #    Olivia Zekry: Survey + Interview
         #    Amal Ibrahim: Survey + Interview
-
+# Task.04
+        #    Mohamed Samy: Persona + Empathy map + Journey Map
+        #    Mohamed Gabr: Persona + Empathy map + Journey Map
+        #    Olivia Zekry: Persona + Empathy map + Journey Map
+        #    Amal Ibrahim: Persona + Empathy map + Journey Map
+# Task.05
+        #    Mohamed Samy: Persona + Empathy map + Journey Map
+        #    Mohamed Gabr: Persona + Empathy map + Journey Map
+        #    Olivia Zekry: Persona + Empathy map + Journey Map
+        #    Amal Ibrahim: Persona + Empathy map + Journey Map
