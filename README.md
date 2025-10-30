@@ -1,19 +1,26 @@
 # DPI_YAT622B_GIZ3_DRT2_G1
 # Team 1
-# Project Name: AutoFix
+
+# Project Name: **AutoFix**
+
 # Project Member: 
     # Amal Ibrahim 
     # Olivia Zekry 
     # Mohamed Samy 
     # Mohamed Gabr
+    # Mariam Ezzat
     # Dina Gamal
+    
 # Project Idea: 
-    # Auto The project is a mobile application and website that provides all car services in one platform.
+    # AutoFix The project is a mobile application that provides all car services on one platform.
     # The main goal is to support car owners by: - Purchasing guaranteed spare parts easily.
     # Booking and tracking regular maintenance with certified service centers.
     # Offering 24/7 emergency roadside assistance.
-    # Keeping full vehicle maintenance history for better tracking.
+    # Keeping a full vehicle maintenance history for better tracking.
     # The key advantage is partnering with trusted and certified service centers across all regions to ensure high-quality service and customer satisfaction.
+    
+# Survey Link:
+    #    https://docs.google.com/forms/d/e/1FAIpQLSdLt0XN7yod3bca5O3Opd-wGxJOnWxcHZz4f2OzeIv-AfoL5Q/viewform?usp=header
 
 # Task.01
         #    Mohamed Samy: Example real issues-Stakeholder Interview
@@ -45,4 +52,23 @@
         #    Mohamed Gabr: Low Fidelity
         #    Olivia Zekry: Low Fidelity
         #    Amal Ibrahim: Low Fidelity
+# Task.07
+        #    Mohamed Samy: Design System + Presentation
+        #    Mohamed Gabr: Design System + Presentation
+        #    Olivia Zekry: Design System + Presentation
+        #    Amal Ibrahim: Design System + Presentation
+# Task.08
+        #    Mohamed Samy: Mid + high fidelity + Presentation
+        #    Mohamed Gabr: Mid + high fidelity + Presentation
+        #    Olivia Zekry: Mid + high fidelity + Presentation
+        #    Amal Ibrahim: Mid + high fidelity + Presentation
+# Task.09
+        #    Mohamed Samy: Mid + high fidelity 
+        #    Mohamed Gabr: Mid + high fidelity 
+        #    Olivia Zekry: Mid + high fidelity
+        #    Amal Ibrahim: Mid + high fidelity
+        #    Mariam Ezzat: Mid + high fidelity
+        
+
+ 
 
