@@ -68,6 +68,18 @@
         #    Olivia Zekry: Mid + high fidelity
         #    Amal Ibrahim: Mid + high fidelity
         #    Mariam Ezzat: Mid + high fidelity
+# Task.10
+        #    Mohamed Samy: Mid + high fidelity 
+        #    Mohamed Gabr: Mid + high fidelity 
+        #    Olivia Zekry: Mid + high fidelity
+        #    Amal Ibrahim: Mid + high fidelity
+        #    Mariam Ezzat: Mid + high fidelity
+# Task.11
+        #    Mohamed Samy: Mid + high fidelity 
+        #    Mohamed Gabr: Mid + high fidelity 
+        #    Olivia Zekry: Mid + high fidelity
+        #    Amal Ibrahim: Mid + high fidelity
+        #    Mariam Ezzat: Mid + high fidelity
         
 
  
