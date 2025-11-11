@@ -80,7 +80,12 @@
         #    Olivia Zekry: Mid + high fidelity
         #    Amal Ibrahim: Mid + high fidelity
         #    Mariam Ezzat: Mid + high fidelity
-        
+# Task.12
+        #    Mohamed Samy: Mid + high fidelity + landing page
+        #    Mohamed Gabr: Mid + high fidelity + landing page
+        #    Olivia Zekry: Mid + high fidelity + landing page
+        #    Amal Ibrahim: Mid + high fidelity + landing page
+        #    Mariam Ezzat: Mid + high fidelity + landing page
 
  
 
