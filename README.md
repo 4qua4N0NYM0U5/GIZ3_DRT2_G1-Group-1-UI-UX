@@ -18,6 +18,11 @@
     # Offering 24/7 emergency roadside assistance.
     # Keeping a full vehicle maintenance history for better tracking.
     # The key advantage is partnering with trusted and certified service centers across all regions to ensure high-quality service and customer satisfaction.
+# Google Drive Link:
+    #    
+
+# Figma Link:
+    #     https://www.figma.com/design/PCOzrEao6mUpPxlZhNW4N9/AutoFix?node-id=1-2&t=UcT3w2qqlsCmx2G6-1
     
 # Survey Link:
     #    https://docs.google.com/forms/d/e/1FAIpQLSdLt0XN7yod3bca5O3Opd-wGxJOnWxcHZz4f2OzeIv-AfoL5Q/viewform?usp=header
