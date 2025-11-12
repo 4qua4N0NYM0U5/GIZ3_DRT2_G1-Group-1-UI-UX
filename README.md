@@ -3,7 +3,7 @@
 
 # Project Name: **AutoFix**
 
-# Project Member: 
+# Project Members: 
     # Amal Ibrahim 
     # Olivia Zekry 
     # Mohamed Samy 
