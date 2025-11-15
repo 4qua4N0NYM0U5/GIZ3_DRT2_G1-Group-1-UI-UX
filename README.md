@@ -1,5 +1,5 @@
 # DPI_YAT622B_GIZ3_DRT2_G1
-# Team 1
+# Group 1
 
 # Project Name: **AutoFix**
 
@@ -9,7 +9,6 @@
     # Mohamed Samy 
     # Mohamed Gabr
     # Mariam Ezzat
-    # Dina Gamal
     
 # Project Idea: 
     # AutoFix The project is a mobile application that provides all car services on one platform.
@@ -18,8 +17,9 @@
     # Offering 24/7 emergency roadside assistance.
     # Keeping a full vehicle maintenance history for better tracking.
     # The key advantage is partnering with trusted and certified service centers across all regions to ensure high-quality service and customer satisfaction.
-# Google Drive Link:
     
+# Google Drive Link:
+    https://drive.google.com/drive/folders/1Fb6nd5i0CPrU3jpCw63agDd8C1M2vGyt?usp=sharing
 
 # Figma Link:
     https://www.figma.com/design/PCOzrEao6mUpPxlZhNW4N9/AutoFix?node-id=1-2&t=UcT3w2qqlsCmx2G6-1
@@ -91,6 +91,12 @@
         #    Olivia Zekry: Mid + high fidelity + landing page
         #    Amal Ibrahim: Mid + high fidelity + landing page
         #    Mariam Ezzat: Mid + high fidelity + landing page
+# Task.13
+        #    Mohamed Samy: Usability Testing 
+        #    Mohamed Gabr: Presentation + Mockup
+        #    Olivia Zekry: Mid fidelity + Design system 
+        #    Amal Ibrahim: Prototype + Components
+        #    Mariam Ezzat: Landing page + User flow 
 
  
 
